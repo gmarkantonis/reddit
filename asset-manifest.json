@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.4b143fc9.chunk.js",
-    "main.js.map": "/static/js/main.4b143fc9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f7cdf0d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f7cdf0d8.js.map",
-    "static/js/2.876f5ea3.chunk.js": "/static/js/2.876f5ea3.chunk.js",
-    "static/js/2.876f5ea3.chunk.js.map": "/static/js/2.876f5ea3.chunk.js.map",
-    "static/js/3.c85d21d7.chunk.js": "/static/js/3.c85d21d7.chunk.js",
-    "static/js/3.c85d21d7.chunk.js.map": "/static/js/3.c85d21d7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.876f5ea3.chunk.js.LICENSE.txt": "/static/js/2.876f5ea3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/reddit/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reddit/static/js/main.4b143fc9.chunk.js",
+    "main.js.map": "/reddit/static/js/main.4b143fc9.chunk.js.map",
+    "runtime-main.js": "/reddit/static/js/runtime-main.1ea08c37.js",
+    "runtime-main.js.map": "/reddit/static/js/runtime-main.1ea08c37.js.map",
+    "static/js/2.876f5ea3.chunk.js": "/reddit/static/js/2.876f5ea3.chunk.js",
+    "static/js/2.876f5ea3.chunk.js.map": "/reddit/static/js/2.876f5ea3.chunk.js.map",
+    "static/js/3.c85d21d7.chunk.js": "/reddit/static/js/3.c85d21d7.chunk.js",
+    "static/js/3.c85d21d7.chunk.js.map": "/reddit/static/js/3.c85d21d7.chunk.js.map",
+    "index.html": "/reddit/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reddit/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.876f5ea3.chunk.js.LICENSE.txt": "/reddit/static/js/2.876f5ea3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reddit/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7cdf0d8.js",
+    "static/js/runtime-main.1ea08c37.js",
     "static/js/2.876f5ea3.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.4b143fc9.chunk.js"
